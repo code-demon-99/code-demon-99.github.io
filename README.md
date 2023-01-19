@@ -9,7 +9,7 @@
 
 ___
 ### 🎭 Skills
-<table  style="background:#888;color:#000;border:0">
+<table >
     <tbody>
         <tr valign="top">
         <td width="80px" align="center">
