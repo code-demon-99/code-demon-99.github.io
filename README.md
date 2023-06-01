@@ -1,15 +1,12 @@
 
-# 👋 Hi, I’m Rishi Namdev aka 'code-demon-99'
+<!-- ![Profile Picture](profile_picture.jpg) -->
+## About me
+- **Name:** Rishi Namdev Aka Code-demon-99
+- **Job Title:** AI Engineer
+- **Company:** BitVivid Solutions PVT. LTD.
 
-
-
-### 📈 GitHub stats
-<p><img src="https://github-readme-streak-stats.herokuapp.com/?user=code-demon-99&theme=dark"/></p>
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=code-demon-99&theme=dark&layout=compact" style="display:inline"  />
-
-___
-### 🎭 Skills
-<table >
+## 🎭 Skills
+<table  style="background:#888;color:#000">
     <tbody>
         <tr valign="top">
         <td width="80px" align="center">
@@ -166,35 +163,27 @@ ___
     </tbody>
 </table>
 
-____
+<!-- ## projects -->
 
-## 🧑🏿‍🦱 About ME
-  - 🤵 currently working as <B>AI Engineer At BitVivid Solutions PVT. LTD.</b>
-  - 👀 I’m interested in programming , data science , AI , robots and AR
-  - 🌱 I’m currently learning AI and Deep Learning 
-  - 💞️ I’m looking to collaborate on some thing related to computervision and AR  
-  - 📫 Contact me using my email or making a nice repo and invite me there 
+## Interests
+- 💻 Programming
+- 📊 Data Science
+- 🤖 Artificial Intelligence
+- 🤖 Robots
+- 🌐 Augmented Reality (AR)
 
-___
+## Learning
+Currently, I am focusing on learning AI and Deep Learning to further enhance my skills in these fields.
 
-*social links*
+## Collaboration
+I am actively looking to collaborate on projects related to computer vision and AR. If you have any interesting ideas or projects, please feel free to reach out to me.
 
-<!-- <a href="https://medium.com/@zluvsand">
-    <img height="50" src="https://cdn4.iconfinder.com/data/icons/social-media-rounded-corners/512/Medium_rounded_cr-306.png"/>
-</a> -->
-<a href="https://www.linkedin.com/in/rishi-namdev/">
-    <img height="50" src="https://cdn2.iconfinder.com/data/icons/social-icon-3/512/social_style_3_in-306.png"/>
-    
-</a>
-<!-- <a href="https://open.spotify.com/playlist/7KmIUNWrK8wEHfQcQfFrQ1?si=0e2d44043b5a40a4">
-    <img height="50" src="https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/315_Spotify_logo-128.png"/>
-</a> -->
+## Contact
+You can contact me using the following methods:
+- ✉️ Email: [namdev.rishi.developer@gmail.com](mailto:namdev.rishi.developer@gmail.com)
+- 💼 GitHub: [github.com/code-demon-99](https://github.com/code-demon-99)
 
-___
+### 📈 GitHub stats
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=code-demon-99&theme=dark"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=code-demon-99&theme=dark&layout=compact"   />
 
-
-
-<!---
-code-demon-99/code-demon-99 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
